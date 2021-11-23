@@ -17,7 +17,7 @@ Mis cualidades son:
 </br>
 [![Javascript](https://img.shields.io/badge/Javascript-EFDA4D?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Typescript](https://img.shields.io/badge/Typescript-3077C5?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
-// [![React](https://img.shields.io/badge/React-02D5FC?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[//]: [![React](https://img.shields.io/badge/React-02D5FC?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 </br>
 [![PHP](https://img.shields.io/badge/PHP-757AB2?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 [![Mysql](https://img.shields.io/badge/Myql-DA830D?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
