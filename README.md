@@ -1,5 +1,5 @@
 # Hola, mi nombre es Cristhian Mamani 👋
-### Desarollador Web Frontend
+### Desarollador Web
 #### Técnico Superior en Sistemas Informáticos
 Comenze en el desarrollo web a principios del 2018. A mediados del 2020 tuve la oportunidad de tener un pasantia voluntariada de 3 meses, donde me surgio la oportunidad de trabajar 8 meses, donde era encargado frontend donde realize 2 landing pages para diferentes empresas y donde estuve dando mantenimiento a un proyecto en curso. Actualmente me encuentro aprendiendo nuevas tecnologias
 
