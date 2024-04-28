@@ -3,11 +3,6 @@
 #### Técnico Superior en Sistemas Informáticos
 Comenze en el desarrollo web a principios del 2018. A mediados del 2020 tuve la oportunidad de tener un pasantia voluntariada de 3 meses, donde me surgio la oportunidad de trabajar 8 meses, donde era encargado frontend donde realize 2 landing pages para diferentes empresas y donde estuve dando mantenimiento a un proyecto en curso. Actualmente me encuentro aprendiendo nuevas tecnologias
 
-Mis cualidades son: 
-- Trabajo en equipo 
-- Responsable
-- Autodidacta
-- Comunicativo
 
 ## Habilidades:
 [![Html5](https://img.shields.io/badge/Html5-ef6526?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
